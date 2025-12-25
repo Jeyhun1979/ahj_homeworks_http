@@ -1,7 +1,8 @@
 import './css/style.css';
 
 
-const API_URL = 'http://localhost:7070';
+const API_URL = 'https://ahj-homeworks-http.onrender.com';
+
 
 class HelpDeskAPI {
   static async getAllTickets() {
